@@ -31,12 +31,15 @@ Este es un bot de Telegram diseñado para convertir archivos de audio y video a 
 Para ejecutar este bot, necesitas tener instalados:
 
 * **Python 3.8 o superior**
+  `pkg install python o apt install python`
 * **`ffmpeg`**
+  `pkg install ffmpeg` **OJO, termux debería de ya tenerlo instalado**
+  
 
 También es necesario que instales las dependencias de Python listadas en el archivo `requirements.txt`:
 pip -r requirements.txt
 ---
-*Desarrollado para dispositivos termux con version 1.119*
+**Desarrollado para dispositivos termux con version 1.119**
 
 ---
 # Hecho Por elmendezz 💦
