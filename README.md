@@ -34,4 +34,11 @@ Para ejecutar este bot, necesitas tener instalados:
 * **`ffmpeg`**
 
 También es necesario que instales las dependencias de Python listadas en el archivo `requirements.txt`:
+pip -r requirements.txt
+---
+*Desarrollado para dispositivos termux con version 1.119*
+
+---
+# Hecho Por elmendezz 💦
+
 
